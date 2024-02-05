@@ -74,8 +74,6 @@ Exciting progress on my MERN (MongoDB, Express.js, React.js, Node.js) stack proj
 ## 🤝 Open to Collaboration:
 Eager to connect with backend developers and enthusiasts! Open to collaboration, feedback, and insights on optimizing backend functionality. Let's build something great together! 🚀
 
-## 👨‍💻 Experience
-- **Company Name, Position, Date Started - Present:** Description of your role and responsibilities.
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gogularamanaa-s-747666237/)
