@@ -1,16 +1,18 @@
-# Hi there! 👋 I'm Gogularamana S, a passionate MERN stack developer from India and an aspiring engineer graduating in 2025.
+# Hi there! 👋 I'm Gogularamana S, a passionate Front End Developer from India and an aspiring engineer graduating in 2025.
 
-<img src="https://img.freepik.com/premium-vector/engineer-it-specialist-programmer-man-work-home_701961-1592.jpg?w=900" alt="A passionate MERN stack developer" width="600">
+<img src="https://img.freepik.com/premium-vector/engineer-it-specialist-programmer-man-work-home_701961-1592.jpg?w=900" alt="A passionate MERN stack developer" width="700">
 
 ## 🔧 Skills & Technologies
-- **Languages:** JavaScript (Node.js), HTML, CSS
+- **Languages:** JavaScript, HTML, CSS
 - **Frontend:** React
+- - **FrameWork:** BootStrap
 - **Backend:** Node.js
 - **Database:** MongoDB
 - **Others:** Java
 
 ## 🌱 Currently Learning
-- Backend Technologies.
+- Backend Technologies - Node.js, Express.js.
+- Database - MongoDB
 - Exploring advanced Java concepts.
 
 ## 🔭 Currently Working On [Backend]
