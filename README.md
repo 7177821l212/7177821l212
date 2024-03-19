@@ -1,84 +1,24 @@
-# Hi there! 👋 I'm Gogularamana S, a passionate Front End Developer from India and an aspiring engineer graduating in 2025.
 
-<img src="https://img.freepik.com/premium-vector/engineer-it-specialist-programmer-man-work-home_701961-1592.jpg?w=900" alt="A passionate MERN stack developer" width="700">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gogularamanaa-s-747666237/) 
 
-## 🔧 Skills & Technologies
-- **Languages:** JavaScript, HTML, CSS
-- **Frontend:** React
-- - **FrameWork:** BootStrap
-- **Backend:** Node.js
-- **Database:** MongoDB
-- **Others:** Java
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=7177821l212&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=7177821l212&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=7177821l212&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌱 Currently Learning
-- Backend Technologies - Node.js, Express.js.
-- Database - MongoDB
-- Exploring advanced Java concepts.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=7177821l212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔭 Currently Working On [Backend]
-- Stock Management System
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=7177821l212&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🚀 Projects
-- [Project 1](https://github.com/7177821l212/RFID-DOOR-LOCKING-SYSTEM.git):
-- **Core Project:**
-- # RFID Door Locking System
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-This project involves creating a door locking system using an Arduino UNO board, RFID module, LCD with I2C module, servo motor, and jumper wires.
+---
+[![](https://visitcount.itsvg.in/api?id=7177821l212&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Functionality
-
-1. **Power On:**
-   - Upon powering on, the servo motor activates, pushing the door lock forward.
-   - The LCD displays "Welcome, put your card."
-
-2. **RFID Tag Scanning:**
-   - When an RFID tag is moved closer to the RFID reader, it is scanned.
-   - The LCD displays "Scanning."
-
-3. **Validation:**
-   - If the RFID tag is correct:
-     - The servo motor is activated to pull back the door lock.
-     - The LCD displays "Door is Open."
-
-4. **Locking:**
-   - When the RFID tag is moved closer again and is correct:
-     - The servo motor pushes the door lock forward.
-     - The LCD displays "Door is locked."
-
-5. **Incorrect RFID Tag:**
-   - If an incorrect RFID tag is used, the LCD displays "Wrong card."
-
-### Components Used
-
-1. Arduino UNO board
-2. RFID module
-3. LCD with I2C module
-4. Servo motor
-5. Jumper wires
-
-- [Project 2](https://stockmanagement-frontend.netlify.app/):
-- # 📚 Stock Management System for Stationery Shop - MERN Stack Project 🖥️
-
-Exciting progress on my MERN (MongoDB, Express.js, React.js, Node.js) stack project focusing on stock management for a stationery shop!
-
-## 🔍 Frontend Completed:
-- Successfully crafted an intuitive and responsive frontend using React.js.
-- User-friendly interfaces for inventory tracking, order management, and analytics.
-
-## 🚀 Current Focus - Backend Development:
-- Engaged in developing a robust backend with Node.js and Express.js.
-- Implementing secure user authentication and seamless data flow.
-
-## 💡 Upcoming Features:
-- Real-time database interactions using MongoDB for efficient inventory tracking.
-- Advanced analytics and insights to empower decision-making.
-
-## 🤝 Open to Collaboration:
-Eager to connect with backend developers and enthusiasts! Open to collaboration, feedback, and insights on optimizing backend functionality. Let's build something great together! 🚀
-
-
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/gogularamanaa-s-747666237/)
-- [Netlify](https://app.netlify.com/teams/7177821l212/sites)
-
-Feel free to explore my repositories and provide feedback. Happy coding! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
